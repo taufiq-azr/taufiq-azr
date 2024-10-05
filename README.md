@@ -9,7 +9,7 @@ A highly motivated Informatics Engineering graduate from Politeknik Caltex Riau 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [taufiqdewa91@gmail.com](mailto:taufiqdewa91@gmail.com)
 * 🧠  Now I'm learning Java Spring Boot, anything about Java
-* 🤝  I'm open to collaborating on interesting project
+* 🤝  I'm open to collaborating on interesting project and job
 
 ### Skills
 
